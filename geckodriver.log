@@ -1,0 +1,488 @@
+1527779171916	geckodriver	INFO	geckodriver 0.20.1
+1527779171928	geckodriver	INFO	Listening on 127.0.0.1:36249
+1527779172938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BNgaERo4adt2"
+1527779186852	Marionette	INFO	Listening on port 36983
+1527779186900	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13190): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1527779871054	geckodriver	INFO	geckodriver 0.20.1
+1527779871063	geckodriver	INFO	Listening on 127.0.0.1:43459
+1527779872066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0PMI7ah4mvPn"
+1527779876531	Marionette	INFO	Listening on port 44431
+1527779876605	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13702): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527779942906	geckodriver	INFO	geckodriver 0.20.1
+1527779942915	geckodriver	INFO	Listening on 127.0.0.1:34207
+1527779943920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Neho2SKyfVbf"
+1527779948176	Marionette	INFO	Listening on port 36353
+1527779948240	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527779974322	geckodriver	INFO	geckodriver 0.20.1
+1527779974333	geckodriver	INFO	Listening on 127.0.0.1:50401
+1527779975334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9GBpagFJzs6u"
+1527779980003	Marionette	INFO	Listening on port 36723
+1527779980066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528150158326	geckodriver	INFO	geckodriver 0.20.1
+1528150158363	geckodriver	INFO	Listening on 127.0.0.1:35647
+1528150159398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2VHDs8cOw0wm"
+1528150168351	Marionette	INFO	Listening on port 46611
+1528150168438	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528151426871	geckodriver	INFO	geckodriver 0.20.1
+1528151426879	geckodriver	INFO	Listening on 127.0.0.1:33415
+1528151426953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rAwN72CUiQJe"
+1528151433208	Marionette	INFO	Listening on port 33197
+1528151433302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528151862915	geckodriver	INFO	geckodriver 0.20.1
+1528151862923	geckodriver	INFO	Listening on 127.0.0.1:58355
+1528151863921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DQpB3ifdApPC"
+1528151868611	Marionette	INFO	Listening on port 43323
+1528151868662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528152260885	geckodriver	INFO	geckodriver 0.20.1
+1528152260896	geckodriver	INFO	Listening on 127.0.0.1:41423
+1528152260905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dgZ681YpPQej"
+1528152265322	Marionette	INFO	Listening on port 34673
+1528152265460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528152399192	geckodriver	INFO	geckodriver 0.20.1
+1528152399200	geckodriver	INFO	Listening on 127.0.0.1:54357
+1528152400197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A3J4sGqQrCZY"
+1528152405568	Marionette	INFO	Listening on port 43179
+1528152405624	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14176): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528152537080	geckodriver	INFO	geckodriver 0.20.1
+1528152537090	geckodriver	INFO	Listening on 127.0.0.1:50035
+1528152538093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1x1TLiRk1gym"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528152547033	geckodriver	INFO	geckodriver 0.20.1
+1528152547044	geckodriver	INFO	Listening on 127.0.0.1:35317
+1528152548045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y1cLdqJpXm43"
+1528152552443	Marionette	INFO	Listening on port 34209
+1528152552471	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14538): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528153977253	geckodriver	INFO	geckodriver 0.20.1
+1528153977358	geckodriver	INFO	Listening on 127.0.0.1:50083
+1528153978447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MDP1Z0vYjpRf"
+1528153996607	Marionette	INFO	Listening on port 38817
+1528153996622	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15406): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528154381927	geckodriver	INFO	geckodriver 0.20.1
+1528154381937	geckodriver	INFO	Listening on 127.0.0.1:47341
+1528154382931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hWBx05Cyg3p7"
+1528154387462	Marionette	INFO	Listening on port 41905
+1528154387559	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528155459919	geckodriver	INFO	geckodriver 0.20.1
+1528155459928	geckodriver	INFO	Listening on 127.0.0.1:59703
+1528155460926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uTrumf29BHYN"
+1528155465467	Marionette	INFO	Listening on port 45545
+1528155465564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528156414125	geckodriver	INFO	geckodriver 0.20.1
+1528156414137	geckodriver	INFO	Listening on 127.0.0.1:50915
+1528156415135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.icmSIQUgjOKy"
+1528156420107	Marionette	INFO	Listening on port 33321
+1528156420184	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17277): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1528156630316	geckodriver	INFO	geckodriver 0.20.1
+1528156630324	geckodriver	INFO	Listening on 127.0.0.1:58655
+1528156630387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CaYvmee8TpdS"
+1528156635715	Marionette	INFO	Listening on port 40499
+1528156635749	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17479): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528159920334	geckodriver	INFO	geckodriver 0.20.1
+1528159920342	geckodriver	INFO	Listening on 127.0.0.1:41603
+1528159921343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xzjsCs78WbG7"
+1528159927070	Marionette	INFO	Listening on port 38757
+1528159927090	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19868): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528160184941	geckodriver	INFO	geckodriver 0.20.1
+1528160184949	geckodriver	INFO	Listening on 127.0.0.1:45411
+1528160185951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bOWrduf4OyOc"
+1528160190862	Marionette	INFO	Listening on port 39779
+1528160190913	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20181): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 20122, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528201622736	geckodriver	INFO	geckodriver 0.20.1
+1528201622783	geckodriver	INFO	Listening on 127.0.0.1:42929
+1528201623810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DL5FgEVWw8zJ"
+1528201638958	Marionette	INFO	Listening on port 36555
+1528201639097	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3654): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://abs.twimg.com/k/en/init.en.ae62202c2e7a8c3978db.js, line 1: Error: Loading chunk 14 failed.
+1528202122840	geckodriver	INFO	geckodriver 0.20.1
+1528202122861	geckodriver	INFO	Listening on 127.0.0.1:41499
+1528202122964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1o2O30GWDvF5"
+1528202133075	Marionette	INFO	Listening on port 38207
+1528202133123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528203534373	geckodriver	INFO	geckodriver 0.20.1
+1528203534383	geckodriver	INFO	Listening on 127.0.0.1:54633
+1528203535397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0Nxvgup952n5"
+1528203540778	Marionette	INFO	Listening on port 40555
+1528203540880	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5451): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528205884942	geckodriver	INFO	geckodriver 0.20.1
+1528205884950	geckodriver	INFO	Listening on 127.0.0.1:34819
+1528205885952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h1ECg2CvoyNM"
+1528205890344	Marionette	INFO	Listening on port 39719
+1528205890386	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6409): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528206049172	geckodriver	INFO	geckodriver 0.20.1
+1528206049181	geckodriver	INFO	Listening on 127.0.0.1:46225
+1528206050177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4gYJD7NkLaZ0"
+1528206054617	Marionette	INFO	Listening on port 35879
+1528206054739	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6607): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528206203395	geckodriver	INFO	geckodriver 0.20.1
+1528206203403	geckodriver	INFO	Listening on 127.0.0.1:35783
+1528206204407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Rp1Zqx815b0u"
+1528206208858	Marionette	INFO	Listening on port 41497
+1528206208980	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6819): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://abs.twimg.com/k/en/init.en.ae62202c2e7a8c3978db.js, line 1: Error: Loading chunk 0 failed.
+1528208084705	geckodriver	INFO	geckodriver 0.20.1
+1528208084727	geckodriver	INFO	Listening on 127.0.0.1:40845
+1528208085713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HT38iSXbTFSv"
+1528208090691	Marionette	INFO	Listening on port 45405
+1528208090740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528208453773	geckodriver	INFO	geckodriver 0.20.1
+1528208453784	geckodriver	INFO	Listening on 127.0.0.1:55595
+1528208454786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OAT0vK9G8F23"
+1528208459632	Marionette	INFO	Listening on port 33835
+1528208459718	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9026): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528208545165	geckodriver	INFO	geckodriver 0.20.1
+1528208545177	geckodriver	INFO	Listening on 127.0.0.1:50717
+1528208546172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RtradEbHdzL7"
+1528208551115	Marionette	INFO	Listening on port 37015
+1528208551220	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9255): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528208722544	geckodriver	INFO	geckodriver 0.20.1
+1528208722555	geckodriver	INFO	Listening on 127.0.0.1:58691
+1528208723560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uBye4D9l6DAv"
+1528208728937	Marionette	INFO	Listening on port 40395
+1528208728987	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9510): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528224836476	geckodriver	INFO	geckodriver 0.20.1
+1528224836483	geckodriver	INFO	Listening on 127.0.0.1:37621
+1528224837483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OJ8CmP26gnY7"
+1528224842162	Marionette	INFO	Listening on port 33513
+1528224842206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528226258613	geckodriver	INFO	geckodriver 0.20.1
+1528226258637	geckodriver	INFO	Listening on 127.0.0.1:59965
+1528226259615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WipHhFh7Mkgj"
+1528226267226	Marionette	INFO	Listening on port 45669
+1528226267284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528226465374	geckodriver	INFO	geckodriver 0.20.1
+1528226465418	geckodriver	INFO	Listening on 127.0.0.1:44087
+1528226465449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YVZDjRsNU5IZ"
+1528226473003	Marionette	INFO	Listening on port 34527
+1528226473144	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30355, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528226685804	geckodriver	INFO	geckodriver 0.20.1
+1528226685816	geckodriver	INFO	Listening on 127.0.0.1:46229
+1528226686813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.x7qDPEomZDr8"
+1528226691445	Marionette	INFO	Listening on port 35691
+1528226691538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528227387296	geckodriver	INFO	geckodriver 0.20.1
+1528227387306	geckodriver	INFO	Listening on 127.0.0.1:59121
+1528227388305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h9d3P8xvfo5l"
+1528227393147	Marionette	INFO	Listening on port 36663
+1528227393227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528286659868	geckodriver	INFO	geckodriver 0.20.1
+1528286659905	geckodriver	INFO	Listening on 127.0.0.1:55739
+1528286660932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dWPfKPOoId2L"
+1528286673566	Marionette	INFO	Listening on port 37777
+1528286673583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528306794732	geckodriver	INFO	geckodriver 0.20.1
+1528306794819	geckodriver	INFO	Listening on 127.0.0.1:42809
+1528306795884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3rtPAOgwMCCs"
+1528306815744	Marionette	INFO	Listening on port 40777
+1528306815878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528306900419	geckodriver	INFO	geckodriver 0.20.1
+1528306900430	geckodriver	INFO	Listening on 127.0.0.1:43667
+1528306901430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HJgTywQiShS7"
+1528306905925	Marionette	INFO	Listening on port 43159
+1528306905990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528314146973	geckodriver	INFO	geckodriver 0.20.1
+1528314146981	geckodriver	INFO	Listening on 127.0.0.1:43981
+1528314147980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oP2r8xsmmarz"
+1528314153186	Marionette	INFO	Listening on port 32921
+1528314153218	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14770): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528314267292	geckodriver	INFO	geckodriver 0.20.1
+1528314267303	geckodriver	INFO	Listening on 127.0.0.1:35053
+1528314268298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ckVjOzA4qoJj"
+1528314273015	Marionette	INFO	Listening on port 43303
+1528314273118	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14952): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 14890, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528315908691	geckodriver	INFO	geckodriver 0.20.1
+1528315908698	geckodriver	INFO	Listening on 127.0.0.1:34065
+1528315909702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xgQ8upuRdEcl"
+1528315914085	Marionette	INFO	Listening on port 41029
+1528315914133	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15678): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528564456231	geckodriver	INFO	geckodriver 0.20.1
+1528564456275	geckodriver	INFO	Listening on 127.0.0.1:48173
+1528564457234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1Nsv7Hl1mSKp"
+1528564468615	Marionette	INFO	Listening on port 41365
+1528564468722	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7716): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 7656, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528645650329	geckodriver	INFO	geckodriver 0.20.1
+1528645650367	geckodriver	INFO	Listening on 127.0.0.1:53449
+1528645651326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DE3LL09ioW8I"
+1528645667545	Marionette	INFO	Listening on port 34185
+1528645667609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528645668130	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528645998406	geckodriver	INFO	geckodriver 0.20.1
+1528645998416	geckodriver	INFO	Listening on 127.0.0.1:41139
+1528645999439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a2hlEr6bdcmF"
+1528646003664	Marionette	INFO	Listening on port 37717
+1528646003773	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17419): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1528646869059	geckodriver	INFO	geckodriver 0.20.1
+1528646869066	geckodriver	INFO	Listening on 127.0.0.1:52257
+1528646870065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0hvD1Urr7xQd"
+1528646874278	Marionette	INFO	Listening on port 44917
+1528646874303	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17845): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://founderskeepers.co/main.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://founderskeepers.co/main.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528648588439	geckodriver	INFO	geckodriver 0.20.1
+1528648588447	geckodriver	INFO	Listening on 127.0.0.1:49943
+1528648589452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CweIA55WoyPL"
+1528648594313	Marionette	INFO	Listening on port 44639
+1528648594378	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528648722701	geckodriver	INFO	geckodriver 0.20.1
+1528648722713	geckodriver	INFO	Listening on 127.0.0.1:35023
+1528648723711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aqFFpiAqjfbO"
+1528648727804	Marionette	INFO	Listening on port 38763
+1528648727832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529628123305	geckodriver	INFO	geckodriver 0.20.1
+1529628123342	geckodriver	INFO	Listening on 127.0.0.1:53925
+1529628124304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sg80Y6NpbGJ1"
+1529628139554	Marionette	INFO	Listening on port 33317
+1529628139575	Marionette	WARN	TLS certificate errors will be ignored for this session
