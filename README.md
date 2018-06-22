@@ -1,2 +1,1 @@
-defollowing some people on twitter using selenium
-Maybe expand to other useful things that can be done with selenium ...
+Twitter script.
